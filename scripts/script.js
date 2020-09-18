@@ -26,10 +26,10 @@ new Vue({
           favorited: true
         },
         {
-          name: "",
-          artist: "",
-          cover: "",
-          source: "",
+          name: "Vulture",
+          artist: "Reinaldo Skabello",
+          cover: "img/rock12.jpg",
+          source: "mp3/rock.webm",
           url: "",
           favorited: false
         },
