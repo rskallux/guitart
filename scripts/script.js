@@ -34,10 +34,10 @@ new Vue({
           favorited: false
         },
         {
-          name: "",
-          artist: "",
-          cover: "",
-          source: "",
+          name: "Purple Rain (Version)",
+          artist: "Reinaldo Skabello",
+          cover: "img/rain.jpg",
+          source: "mp3/prince.webm",
           url: "",
           favorited: false
         },
