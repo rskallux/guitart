@@ -12,7 +12,7 @@ new Vue({
         {
           name: "simple blue",
           artist: "Reinaldo Skabello",
-          cover: "img/1.jpg",
+          cover: "img/graf.jpg",
           source: "mp3/melodico.webm",
           url: "",
           favorited: false
@@ -20,7 +20,7 @@ new Vue({
         {
           name: "window to the sun",
           artist: "Reinaldo Skabello",
-          cover: "img/blu2.jpg",
+          cover: "img/graf.jpg",
           source: "mp3/bluesy.webm",
           url: "",
           favorited: true
@@ -28,7 +28,7 @@ new Vue({
         {
           name: "Vulture",
           artist: "Reinaldo Skabello",
-          cover: "img/rock12.jpg",
+          cover: "img/graf.jpg",
           source: "mp3/rock.webm",
           url: "",
           favorited: false
@@ -36,7 +36,7 @@ new Vue({
         {
           name: "Purple Rain (Version)",
           artist: "Reinaldo Skabello",
-          cover: "img/rain.jpg",
+          cover: "img/graf.jpg",
           source: "mp3/prince.webm",
           url: "",
           favorited: false
